@@ -1,0 +1,9 @@
+pandas
+numpy
+matplotlib
+seaborn
+scikit-learn
+mlxtend
+streamlit>=1.32
+plotly
+joblib
